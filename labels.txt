@@ -1,0 +1,26 @@
+# Label mapping
+id2label = {
+    0: "brick",
+    1: "carpet",
+    2: "ceramic",
+    3: "fabric",
+    4: "foliage",
+    5: "food",
+    6: "glass",
+    7: "hair",
+    8: "leather",
+    9: "metal",
+    10: "mirror",
+    11: "other",
+    12: "painted",
+    13: "paper",
+    14: "plastic",
+    15: "polishedstone",
+    16: "skin",
+    17: "sky",
+    18: "stone",
+    19: "tile",
+    20: "wallpaper",
+    21: "water",
+    22: "wood"
+}
